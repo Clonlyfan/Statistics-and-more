@@ -1,16 +1,6 @@
 <h1>Statistical analysis</h1>
         
-        =======================================================================================================================================
-        Vectors
-        -Physics perspective
-           Arrows Pointing in Space.It is defined by the direction of the arrow and its lenth.
-        -Computer Science perspective
-           Ordered list of numbers
-        -Mathematical 
-           Anthing where there is a sensible notion of adding two vectors and multiplying two vecctors. 
-           
-        In linear Algebra vectors would almost always be rooted at origin.
-        
+        =====================================================================================================================================
         
         
         
